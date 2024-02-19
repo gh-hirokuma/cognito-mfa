@@ -53,7 +53,7 @@ const Home: NextPage = () => {
           user.username +
           "?secret=" +
           code +
-          "&issuer=kdh"
+          "&issuer=a_organization"
       );
     });
   };
